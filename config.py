@@ -1,0 +1,2 @@
+# Por exemplo:
+DEBUG = True
